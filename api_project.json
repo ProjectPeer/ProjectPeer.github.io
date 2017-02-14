@@ -1,0 +1,1 @@
+{  "name": "Peer - Serveur API",  "version": "0.1.0",  "description": "",  "title": "Peer RestAPI Documentation",  "url": "http://192.168.99.100/api",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-02-14T23:23:21.165Z",    "url": "http://apidocjs.com",    "version": "0.17.5"  }}
